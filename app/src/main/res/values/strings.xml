@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="add_contact">New Contact</string>
+    <string name="relationship">SET RELATIONSHIP</string>
+    <string name="contact_add">ADD CONTACT</string>
+    <string name="hint1">Name</string>
+    <string name="hint2">Number</string>
+    <string name="hint3">E-Mail</string>
+    <string name="hint4">Organization</string>
+    <string name="search">Search</string>
+    <string name="add_button">Add</string>
+</resources>
